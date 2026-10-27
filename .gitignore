@@ -10,3 +10,7 @@ local.properties
 
 # OS
 .DS_Store
+
+# Vaste debug-keystore staat wél in de repo: elke build moet dezelfde
+# handtekening krijgen zodat update-over-install werkt op Tommy's telefoon.
+!/keystore/debug.keystore

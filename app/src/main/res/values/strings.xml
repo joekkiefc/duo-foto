@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Duoshot</string>
+    <string name="voorkant">VOORKANT</string>
+    <string name="achterkant">ACHTERKANT</string>
+    <string name="foto_maken">Foto maken</string>
+    <string name="samenvoegen">Samenvoegen…</string>
+    <string name="delen">Delen</string>
+    <string name="volgende_kaart">Volgende kaart</string>
+    <string name="opgeslagen">Opgeslagen in galerij</string>
+    <string name="opslaan_mislukt">Opslaan mislukt</string>
+    <string name="foto_mislukt">Foto maken mislukt, probeer opnieuw</string>
+    <string name="camera_mislukt">Camera starten mislukt</string>
+    <string name="toestemming_uitleg">Duoshot heeft de camera nodig om de voor- en achterkant van een kaart te fotograferen.</string>
+    <string name="toestemming_geven">Toestemming geven</string>
+    <string name="delen_via">Delen via</string>
 </resources>
